@@ -1,0 +1,3 @@
+[submodule "invokers/staff/Auralux"]
+	path = invokers/staff/Auralux
+	url = https://github.com/chegoryu/Auralux
